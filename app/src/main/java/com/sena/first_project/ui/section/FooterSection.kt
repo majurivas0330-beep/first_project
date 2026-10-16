@@ -19,14 +19,14 @@ fun FooterSection() {
         modifier = Modifier
             .fillMaxWidth()
             .height(80.dp)
-            .background(Color.LightGray),
+            .background(Color.White),
         horizontalArrangement = Arrangement.SpaceEvenly,
         verticalAlignment = Alignment.CenterVertically
     ) {
 
-        Text(text = "Inicio")
+        Text(text = "2026")
 
-        Text(text = "Perfil")
+        Text(text = "SENA")
 
     }
 

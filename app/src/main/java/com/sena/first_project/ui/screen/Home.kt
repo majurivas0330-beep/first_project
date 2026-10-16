@@ -17,7 +17,7 @@ fun Home(modifier: Modifier = Modifier) {
 
     Surface(
         modifier = modifier.fillMaxSize(),
-        color = Color.Gray
+        color = Color.Black
     ) {
 
         Column(

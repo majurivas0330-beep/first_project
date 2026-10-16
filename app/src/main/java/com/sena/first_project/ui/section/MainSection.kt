@@ -25,13 +25,14 @@ fun MainSection() {
     ) {
 
         Row(
+            modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.SpaceEvenly,
             verticalAlignment = Alignment.CenterVertically
         ) {
 
             CuadroColor(Color.Green)
 
-            CuadroColor(Color.Red)
+            CuadroColor(Color.Blue)
 
             CuadroColor(Color.Yellow)
 

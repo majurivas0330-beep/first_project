@@ -18,11 +18,11 @@ fun HeaderSection() {
         modifier = Modifier
             .fillMaxWidth()
             .height(100.dp)
-            .background(Color.LightGray),
+            .background(Color.White),
         contentAlignment = Alignment.Center
     ) {
 
-        Text(text = "Mi aplicación")
+        Text(text = "Juan José Roldan")
 
     }
 
